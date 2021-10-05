@@ -1,0 +1,11 @@
+
+.li {
+  display: flex;
+  justify-content: flex-end;
+  transition-duration: 0.3s;
+  transition-property: background-color;
+}
+
+.li:hover {
+  background-color: #f2f2f2;
+}

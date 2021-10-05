@@ -1,0 +1,12 @@
+.block {
+  display: flex;
+  width: 14em;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  align-items: center;
+}
+
+.duration {
+  margin-left: 1em;
+}
+
